@@ -1,4 +1,4 @@
-<img width="941" alt="rahul_pyspark" src="https://github.com/Rahulkumarredd/rahulitm/assets/110669240/df45e3f2-1d7a-4e21-9c4a-87747b7e91c4"># Lab 01
+
 
 For ITMD 521, Big Data Technologies, week-04, lab-01, chapter-02
 
@@ -49,4 +49,4 @@ Make sure the `vagrant@your-initials` is in the screenshot
 
 ### Spark Scala ScreenShot
 
-![Uploading rahul_sparkscala.png…]()
+<img width="853" alt="rahul_sparkscala" src="https://github.com/Rahulkumarredd/rahulitm/assets/110669240/84417957-1f7c-46c6-909a-74c29610f0d4">
